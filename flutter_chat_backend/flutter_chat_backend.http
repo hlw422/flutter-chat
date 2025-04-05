@@ -1,0 +1,6 @@
+@flutter_chat_backend_HostAddress = http://localhost:5133
+
+GET {{flutter_chat_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
